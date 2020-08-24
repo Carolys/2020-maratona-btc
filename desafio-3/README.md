@@ -1,4 +1,5 @@
-# Desafio 03 | FIAP
+# 📹 Desafio 03 | FIAP
+As páginas para as quais foi pedido a extração de documentos são de dois tipos diferentes de conteúdo: article (artigo) e video (vídeo). As de conteúdos em vídeo são de palestras Ted Talks, em que as transcrições em português das falas já estão disponíveis, enquanto as de artigo são de alguns artigos relacionados a tecnologia e inteligência artificial disponíveis em diversos websites. Abaixo está a lista de URLs para a extração:
 
 1. https://www.ted.com/talks/helen_czerski_the_fascinating_physics_of_everyday_life/transcript?language=pt-br#t-81674
 2. https://www.ted.com/talks/kevin_kelly_how_ai_can_bring_on_a_second_industrial_revolution/transcript?language=pt-br
