@@ -15,3 +15,5 @@
 13. https://olhardigital.com.br/colunistas/jorge_vargas_neto/post/como_a_inteligencia_artificial_pode_mudar_o_cenario_de_oferta_de_credito/78999
 14. https://olhardigital.com.br/ciencia-e-espaco/noticia/cientistas-criam-programa-poderoso-que-aprimora-deteccao-de-galaxias/100683
 15. https://www.startse.com/noticia/startups/mobtech/deep-learning-o-cerebro-dos-carros-autonomos
+
+Editor de texto utilizado no body: https://onlinetexttools.com/json-stringify-text
