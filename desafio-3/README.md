@@ -18,3 +18,17 @@ As páginas para as quais foi pedido a extração de documentos são de dois tip
 15. https://www.startse.com/noticia/startups/mobtech/deep-learning-o-cerebro-dos-carros-autonomos
 
 Editor de texto utilizado no body: https://onlinetexttools.com/json-stringify-text
+
+Queries utilizadas:
+
+1. Uma palestra sobre física
+2. O que é inteligência artificial?
+3. História do Brasil
+4. Vídeo sobre estatística avançada
+5. Artigo sobre as teorias sobre o tempo
+6. Os riscos do Machine Learning
+7. Gostaria de um artigo que falasse sobre inteligência artificial e carros autônomos
+8. A física no dia a dia
+9. Cientistas criam programa poderoso
+10. IBM consegue prever câncer
+11. IBM se destaca com nova tecnologia artificial
