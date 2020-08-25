@@ -70,3 +70,15 @@ Queries utilizadas:
 48. Um artigo sobre curso de excel
 49. Quais os riscos do leite
 50. Vídeo de como trabalhar juntos para melhores peças de arte
+51. A mente humana
+52. Como a tecnologia auxilia as pessoas com deficiencia fisica
+53. Interligação entre o presente, passado e futuro
+54. Machine learning tem riscos?
+55. A IA pode alterar a forma de oferta de crédito?
+56. Aprimoramento da detecção de galáxias
+57. Cérebro dos carros autônomos
+58. Como os carros autônomos pensam
+59. A importância das ruínas antigas
+60. Humanos e IA podem trabalhar juntos para melhores negócios
+61. Inteligência artificial pode gerar trilha sonora para a vida
+62. Como a tecnologia ajuda pessoas cegas
