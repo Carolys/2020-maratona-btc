@@ -63,4 +63,10 @@ Queries utilizadas:
 41. Futuro mais próximo
 42. IA pode melhorar o trabalho, vida social e memória
 43. Pessoas cegas usam a tecnologia para explorar o mundo
-
+44. Uma xícara de chá
+45. Receita de bolo
+46. Um artigo sobre a língua francesa
+47. Uma palestra sobre dramas coreanos
+48. Um artigo sobre curso de excel
+49. Quais os riscos do leite
+50. Vídeo de como trabalhar juntas para melhores peças de arte
