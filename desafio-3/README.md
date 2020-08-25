@@ -69,4 +69,4 @@ Queries utilizadas:
 47. Uma palestra sobre dramas coreanos
 48. Um artigo sobre curso de excel
 49. Quais os riscos do leite
-50. Vídeo de como trabalhar juntas para melhores peças de arte
+50. Vídeo de como trabalhar juntos para melhores peças de arte
