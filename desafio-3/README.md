@@ -32,3 +32,35 @@ Queries utilizadas:
 9. Cientistas criam programa poderoso
 10. IBM consegue prever câncer
 11. IBM se destaca com nova tecnologia artificial
+12. Uma palestra sobre inteligência artificial e segunda revolução industrial
+13. Inteligência artificial pode provocar uma segunda revolução industrial
+14. Uma palestra sobre a importância das ruínas antigas
+15. Ruínas antigas
+16. Uma palestra sobre como a inteligência artificial e as pessoas podem trabalhar juntas para melhores negócios
+17. Inteligência artificial e as pessoas podem trabalhar juntas para melhores negócios
+18. Uma palestra sobre como a tecnologia auxilia as pessoas cegas a explorar o mundo
+20. A tecnologia ajuda as pessoas cegas a explorar o mundo
+21. Uma palestra sobre como a inteligência artificial pode compor uma trilha sonora pra vida
+22. Inteligência artificial pode compor uma trilha sonora pra vida
+23. Uma palestra sobre como a inteligência artificial pode melhorar a memória, trabalho e vida social
+24. Gostaria de uma palestra sobre como a inteligência artificial pode melhorar a memória, trabalho e vida social
+25. Um artigo sobre um futuro cada vez mais perto
+26. Como o futuro está cada vez mais próximo
+27. Gostaria de um artigo sobre os riscos do machine learning
+28. Quais são os riscos do machine learning?
+29. Gostaria de um artigo sobre como o passado, presente e futuro coexistem
+30. É possível que o passado, presente e futuro possam coexistir?
+31. Um artigo sobre como a inteligência artificial consegue prever o câncer de mama
+32. Um artigo sobre como a inteligência artificial ajuda a Nasa a projetar trajes espaciais
+33. Um artigo sobre como a inteligência artificial pode mudar o cenário de oferta de crédito
+34. Um artigo sobre como cientistas criam programa que aprimora detecção de galáxias
+35. Como conhecer o cérebro dos carros autônomos com deep learning
+36. IA ajuda Nasa com projetos de trajes espaciais
+37. IA pode mudar cenário de oferta de crédito
+38. Cientistas criam programa de aprimoramento na detecção de galáxias
+39. Deep learning e o cérebro dos carros autônomos
+40. Riscos do machine learning
+41. Futuro mais próximo
+42. IA pode melhorar o trabalho, vida social e memória
+43. Pessoas cegas usam a tecnologia para explorar o mundo
+
