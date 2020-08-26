@@ -1,2 +1,2 @@
-# Desafio 02 | UNINASSAU
+# 🎓 Desafio 02 | UNINASSAU
 
