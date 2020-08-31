@@ -1,0 +1,28 @@
+--> Saudação:
+Olá, como posso te ajudar?
+Olá, sou assistente virtual capaz te dizer onde está a ATM mais próxima de você!
+Oi pia
+
+--> Finalização:
+Tchau volte sempre!
+
+--> Saque:
+-> Local:
+Onde deseja fazer o saque?
+Em qual bairro você está?
+
+->Quantia:
+Quando deseja sacar?
+
+->Segmento:
+Deseja sacar o dinheiro em algum tipo de comércio ou não?
+
+->Respostas: sucesso ou erro
+
+
+----Fallback
+Eu não entendi. Você pode tentar reformular a frase?
+
+----------------------------- Testes
+seguinte menor quero fazer um saque marono em um farmacia, to aqui no asa sul, vou sacar 50 real
+Ohh bixim! Tem um forró arretado aqui na Asa Sul e to precisando de 20 reais. Vai tocar blackpink da sanfona! Tu sabe se tem caixa eletronico em qualquer beco por aqui?
